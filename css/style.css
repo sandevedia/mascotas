@@ -26,6 +26,7 @@ color: #ffffff;
     margin-left:auto;    
     right: 30px;
     position: fixed;
+    margin-right: 30px;
 
 }
 .portada{
@@ -33,6 +34,7 @@ color: #ffffff;
     height: 100%;
     background-repeat: no-repeat;
     background-position: center center;   
+    
    
 }
 #btnNServicios{
@@ -133,7 +135,7 @@ border-radius: 0;
  .logo{
     height: 90px;
     width: auto;      
-    margin-left: 100px;
+    
     
  }
 
